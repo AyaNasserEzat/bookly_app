@@ -12,6 +12,13 @@ Bookly is a mobile application built with Flutter that allows users to browse, s
 - **Smooth User Experience**: Implements shimmer loading effects (skeletons) while data is being fetched from the API, providing a polished and professional feel.
 - **Error Handling**: Gracefully handles API errors and connectivity issues.
 
+## ScreenShots
+<p float="left">
+  <img src="https://github.com/AyaNasserEzat/bookly_app/blob/a93106de0cc4ef862285bee1c5a12a77c416b885/splash_screen.jpeg" width="200" />
+  <img src="https://github.com/AyaNasserEzat/bookly_app/blob/a93106de0cc4ef862285bee1c5a12a77c416b885/home_screen.jpeg" width="200" />
+  <img src="https://github.com/AyaNasserEzat/bookly_app/blob/a93106de0cc4ef862285bee1c5a12a77c416b885/book_details.jpeg" width="200" />
+</p>
+
 ## Architecture & Technical Stack
 
 The application is built following the principles of **Clean Architecture** to ensure a scalable, maintainable, and testable codebase.
