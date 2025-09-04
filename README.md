@@ -18,6 +18,10 @@ Bookly is a mobile application built with Flutter that allows users to browse, s
   <img src="https://github.com/AyaNasserEzat/bookly_app/blob/a93106de0cc4ef862285bee1c5a12a77c416b885/home_screen.jpeg" width="200" />
   <img src="https://github.com/AyaNasserEzat/bookly_app/blob/a93106de0cc4ef862285bee1c5a12a77c416b885/book_details.jpeg" width="200" />
 </p>
+<p float="left">
+  <img src="https://github.com/AyaNasserEzat/bookly_app/blob/50e149e8772d3f9edd18d8cf6e9223076f20986c/search.jpeg"="200" />
+  <img src="https://github.com/AyaNasserEzat/bookly_app/blob/50e149e8772d3f9edd18d8cf6e9223076f20986c/shimmer.jpeg" width="200" />
+</p>
 
 ## Architecture & Technical Stack
 
