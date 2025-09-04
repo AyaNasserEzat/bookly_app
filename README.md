@@ -2,7 +2,7 @@
 [![Ask DeepWiki](https://devin.ai/assets/askdeepwiki.png)](https://deepwiki.com/AyaNasserEzat/bookly_app)
 
 Bookly is a mobile application built with Flutter that allows users to browse, search, and discover books. It utilizes the Google Books API to fetch a comprehensive catalog of books, presenting them in a clean and user-friendly interface.
-
+![image_alt](https://github.com/AyaNasserEzat/bookly_app/blob/fab7b9f60946820264ae697a9c6b54fe9848d1e5/iphone-multiple-screens-mockup.png)
 ## Features
 
 - **Dynamic Home Screen**: Displays curated lists of "Featured Books" and "Newest Books" to help users discover new reading material.
