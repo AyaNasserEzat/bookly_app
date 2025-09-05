@@ -15,16 +15,16 @@ Bookly is a mobile application built with Flutter that allows users to browse, s
 ## ScreenShots
 <p float="left">
    <img src="https://github.com/AyaNasserEzat/bookly_app/blob/4d29a19913ae536a02ea1f51b995fa6f8214ed0d/IMG-20250905-WA0012.jpg" width="200"/>
+  <img src="https://github.com/AyaNasserEzat/bookly_app/blob/52d9923154e15235f1d078e66547b935f2c1ebc6/IMG-20250905-WA0010.jpg" width="200"/>
   <img src="https://github.com/AyaNasserEzat/bookly_app/blob/bcfc0ecba6e5d7979a2b3040a54352747a826f3c/IMG-20250905-WA0011.jpg" width="200"/>
 </p>
 <p float="left">
-  <img src="https://github.com/AyaNasserEzat/bookly_app/blob/a93106de0cc4ef862285bee1c5a12a77c416b885/splash_screen.jpeg" width="200" />
-  <img src="https://github.com/AyaNasserEzat/bookly_app/blob/a93106de0cc4ef862285bee1c5a12a77c416b885/home_screen.jpeg" width="200" />
-  <img src="https://github.com/AyaNasserEzat/bookly_app/blob/a93106de0cc4ef862285bee1c5a12a77c416b885/book_details.jpeg" width="200" />
-</p>
-<p float="left">
-  <img src="https://github.com/AyaNasserEzat/bookly_app/blob/50e149e8772d3f9edd18d8cf6e9223076f20986c/search.jpeg" width="200" />
-  <img src="https://github.com/AyaNasserEzat/bookly_app/blob/50e149e8772d3f9edd18d8cf6e9223076f20986c/shimmer.jpeg" width="200" />
+<img
+src="
+https://github.com/AyaNasserEzat/bookly_app/blob/63ce0ab18ec6281b70faafe4827a4af152f356c0/IMG-20250905-WA0009.jpg" width="200"/>
+<img
+src="
+https://github.com/AyaNasserEzat/bookly_app/blob/63ce0ab18ec6281b70faafe4827a4af152f356c0/IMG-20250905-WA0008.jpg" width="200"/>
 </p>
 
 ## Architecture & Technical Stack
